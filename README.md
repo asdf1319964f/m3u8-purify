@@ -12,7 +12,7 @@ Tampermonkey 脚本：自动清洗广告、注入播放器、支持多站点、�
 
 ## 🛠 安装方式
 
-点击安装 👉 [M3U8 通用净化平台](https://cdn.jsdelivr.net/gh/yourname/m3u8-purify/m3u8-main.user.js)
+点击安装 👉 [M3U8 通用净化平台](https://cdn.jsdelivr.net/gh/asdf1319964f/m3u8-purify/m3u8-main.user.js)
 
 请将 `yourname` 替换为你的 GitHub 用户名。
 
