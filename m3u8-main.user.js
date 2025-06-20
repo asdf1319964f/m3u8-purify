@@ -5,10 +5,11 @@
 // @description  广告过滤 + 多站支持 + 倍速 + 悬浮播放 + 设置面板 + 模块化维护
 // @match        *://*/*
 // @require      https://cdn.jsdelivr.net/npm/hls.js@latest
-// @require      file://<本地路径>/m3u8-settings.js
-// @require      file://<本地路径>/m3u8-ui.js
-// @require      file://<本地路径>/m3u8-interceptor.js
-// @require      file://<本地路径>/m3u8-player.js
+// @require https://cdn.jsdelivr.net/gh/asdf1319964f/m3u8-purify@v12.3.0/m3u8-settings.js
+// @require https://cdn.jsdelivr.net/gh/asdf1319964f/m3u8-purify@v12.3.0/m3u8-ui.js
+// @require https://cdn.jsdelivr.net/gh/asdf1319964f/m3u8-purify@v12.3.0/m3u8-interceptor.js
+// @require https://cdn.jsdelivr.net/gh/asdf1319964f/m3u8-purify@v12.3.0/m3u8-player.js
+// @require https://cdn.jsdelivr.net/gh/asdf1319964f/m3u8-purify@v12.3.0/m3u8-main.user.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-start
